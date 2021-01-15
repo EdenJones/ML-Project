@@ -1,2 +1,2 @@
-# ML-Project
+# ML-Projects
 Movie Recommendation System
